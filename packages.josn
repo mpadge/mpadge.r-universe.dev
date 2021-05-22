@@ -1,0 +1,26 @@
+[
+    {
+        "package": "osmdata",
+        "url": "https://github.com/ropensci/omsdataa"
+    },
+    {
+        "package": "osmplotr",
+        "url": "https://github.com/ropensci/osmplotr"
+    },
+    {
+        "package": "bikedata",
+        "url": "https://github.com/ropensci/bikedata"
+    },
+    {
+        "package": "mapscanner",
+        "url": "https://github.com/maelle/mapscanner"
+    },
+    {
+        "package": "dodgr",
+        "url": "https://github.com/atfutures/dodgr"
+    },
+    {
+        "package": "gtfsrouter",
+        "url": "https://github.com/atfutures/gtfs-router"
+    }
+]
