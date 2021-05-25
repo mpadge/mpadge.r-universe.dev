@@ -1,7 +1,7 @@
 [
     {
         "package": "osmdata",
-        "url": "https://github.com/ropensci/omsdataa"
+        "url": "https://github.com/ropensci/omsdata"
     },
     {
         "package": "osmplotr",
@@ -13,7 +13,7 @@
     },
     {
         "package": "mapscanner",
-        "url": "https://github.com/maelle/mapscanner"
+        "url": "https://github.com/ropensci/mapscanner"
     },
     {
         "package": "dodgr",
@@ -22,5 +22,9 @@
     {
         "package": "gtfsrouter",
         "url": "https://github.com/atfutures/gtfs-router"
+    },
+    {
+        "package": "geodist",
+        "url": "https://github.com/hypertidy/geodist"
     }
 ]
