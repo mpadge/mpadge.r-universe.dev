@@ -46,5 +46,13 @@
     {
         "package": "allcontributors",
         "url": "https://github.com/ropenscilabs/allcontributors"
+    },
+    {
+        "package": "paretoconv",
+        "url": "https://github.com/mpadge/paretoconv"
+    },
+    {
+        "package": "spatialcluster",
+        "url": "https://github.com/mpadge/spatialcluster"
     }
 ]
