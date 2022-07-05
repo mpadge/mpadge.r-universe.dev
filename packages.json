@@ -52,6 +52,10 @@
         "url": "https://github.com/mpadge/paretoconv"
     },
     {
+        "package": "typetracer",
+        "url": "https://github.com/mpadge/typetracer"
+    },
+    {
         "package": "spatialcluster",
         "url": "https://github.com/mpadge/spatialcluster"
     }
