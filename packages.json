@@ -17,11 +17,11 @@
     },
     {
         "package": "dodgr",
-        "url": "https://github.com/atfutures/dodgr"
+        "url": "https://github.com/UrbanAnalyst/dodgr"
     },
     {
         "package": "gtfsrouter",
-        "url": "https://github.com/atfutures/gtfs-router"
+        "url": "https://github.com/UrbanAnalyst/gtfs-router"
     },
     {
         "package": "geodist",
