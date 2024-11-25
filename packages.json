@@ -21,7 +21,7 @@
     },
     {
         "package": "gtfsrouter",
-        "url": "https://github.com/UrbanAnalyst/gtfs-router"
+        "url": "https://github.com/UrbanAnalyst/gtfsrouter"
     },
     {
         "package": "geodist",
