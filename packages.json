@@ -88,6 +88,10 @@
         "url": "https://github.com/ropenscilabs/allcontributors"
     },
     {
+        "package": "r2readthedocs",
+        "url": "https://github.com/ropenscilabs/r2readthedocs"
+    },
+    {
         "package": "paretoconv",
         "url": "https://github.com/mpadge/paretoconv"
     },
